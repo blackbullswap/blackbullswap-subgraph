@@ -3,7 +3,7 @@ import { Pair, Token, Bundle } from '../types/schema'
 import { BigDecimal, Address, BigInt } from '@graphprotocol/graph-ts/index'
 import { ZERO_BD, factoryContract, ADDRESS_ZERO, ONE_BD, UNTRACKED_PAIRS } from './helpers'
 
-const WETH_ADDRESS = '0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7' //WAVAX
+const WETH_ADDRESS = '0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7' // WAVAX
 const AVAX_BBULL_PAIR = '0x1d0e1111537A342310539487757aA30b573a7559' // created 10140974
 const DAI_WETH_PAIR = '0x66C47aC4c5c3304bbC038EB0fa33Bc00F708ce30' // created block 10042267
 const USDT_WETH_PAIR = '0xDc4137921D5c444223321d528f7eD76e5Fd64217' // created block 10093341

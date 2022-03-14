@@ -1,6 +1,6 @@
 {
   "name": "blackbullswap-exchange",
-  "version": "1.0.2",
+  "version": "1.0.6",
   "repository": "https://github.com/blackbullswap/blackbullswap-subgraph",
   "license": "GPL-3.0-or-later",
   "scripts": {
