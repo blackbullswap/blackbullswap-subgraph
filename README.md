@@ -1,6 +1,6 @@
-# Uniswap V2 Subgraph
+# Blackbullswap Subgraph
 
-[Uniswap](https://uniswap.org/) is a decentralized protocol for automated token exchange on Ethereum.
+[Blackbullswap](https://blackbullswap.finance/) is a decentralized protocol for automated token exchange on Avalanche C-Chain.
 
 This subgraph dynamically tracks any pair created by the blackbull factory. It tracks of the current state of Uniswap contracts, and contains derived stats for things like historical data and USD prices.
 
@@ -22,7 +22,7 @@ Below are a few ways to show how to query the blackbull-subgraph for data. The q
 
 #### BlackbullFactory
 
-Contains data across all of Uniswap V2. This entity tracks important things like total liquidity (in ETH and USD, see below), all time volume, transaction count, number of pairs and more.
+Contains data across all of Blackbullswap. This entity tracks important things like total liquidity (in ETH and USD, see below), all time volume, transaction count, number of pairs and more.
 
 #### Token
 
